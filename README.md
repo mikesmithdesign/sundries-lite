@@ -40,4 +40,4 @@ and sorting on the shelf, a lightbox, four colour packs, a live map, and
 JSON-driven content (rebrand the whole site from one data folder), built
 as an Astro 7 project.
 
-→ https://mikesmithdesign.gumroad.com/l/sundries-astro-theme (£25)
+→ [Sundries, the full Astro theme for shops and small retail](https://mikesmithdesign.co.uk/themes/sundries) (£25)
